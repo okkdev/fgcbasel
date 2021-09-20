@@ -4,9 +4,9 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: "blog"
+  - name: "monthly-mash"
     label: "Monthly Mash Tournaments"
-    folder: "content/blog"
+    folder: "content/monthly-mash"
     create: true
     slug: "{{slug}}"
     editor:

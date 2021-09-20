@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "start": "hugo --gc",
-    "dev": "hugo -D --disableFastRender",
+    "dev": "hugo -D",
     "build": "NODE_ENV=production hugo --gc"
   },
   "devDependencies": {
