@@ -1,6 +1,6 @@
 ---
 title: "Monthly Mash #1 -Strive-"
-date: 2021-08-25
+date: 2021-08-25T17:30:00.000Z
 description: "Monthly Mash #1 Guilty Gear Strive Tournament"
 thumbnail: /img/mmstrive2.png
 ---
@@ -10,7 +10,8 @@ The Winners are:
 - 🥇 [Zerochel](https://twitter.com/Zerochel_)
 - 🥈 Envy
 - 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
- 
+
+{{< figure src="/img/mmstrive_winners.jpeg" title="Monthly Mash #1 -Strive- Winners" >}} 
 
 ## Original
 
