@@ -4,7 +4,7 @@ date: 2021-08-25T17:00:53.369Z
 description: "Monthly Mash #1 Guilty Gear Strive Tournament"
 thumbnail: /img/mmstrive2.png
 ---
-# Update
+## Update
 
 The Winners are:
 - 🥇 [Zerochel](https://twitter.com/Zerochel_)
@@ -12,7 +12,7 @@ The Winners are:
 - 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
  
 
-# Original
+## Original
 
 This month we're playing GUILTY GEAR -STRIVE-.    
 In order to win the prize pool (10CHF + all entry fees + any potential donations), all you need to do is sign up at the venue *before* 19:30 and beat all your opponents.
