@@ -6,8 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "hugo --gc",
-    "dev": "hugo server -s fgcbasel --themesDir=../.. --disableFastRender",
-    "build": "NODE_ENV=production hugo -s fgcbasel --themesDir=../.. --gc"
+    "dev": "hugo -D --disableFastRender",
+    "build": "NODE_ENV=production hugo --gc"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
