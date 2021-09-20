@@ -1,6 +1,6 @@
 ---
-author: Katheryn Fox
-title: Home of Katheryn Fox
+author: Jen
+title: Home
 date: 2021-07-15
 ---
 

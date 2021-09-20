@@ -23,9 +23,9 @@ favicon = "favicon.svg"
 ascentColor = "bg-gray-200"
 
 [params.homepage]
-title = "FGC Basel"
+title = "Fighting Game Community Basel"
 description = "This is the Homepage of the Fighting Game Community Basel."
-photo = "/picture.jpg"
+# photo = "/picture.jpg"
 
 [params.homepage.social]
 title = "Events"
