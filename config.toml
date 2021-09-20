@@ -15,7 +15,7 @@ enableSearch = true
 
 # Custom copyright - optional
 copyright = "Hey, come on!"
-favicon = "favicon.svg"
+favicon = "/favicon.svg"
 
 # Color for the intro details and social links block, not applicable for dark mode
 # Supported values: Any color from TailwindCSS default colors
