@@ -1,0 +1,9 @@
+# Generated files by hugo
+/public/
+/resources/_gen/
+ 
+# node
+node_modules/
+
+# macos
+.DS_Store

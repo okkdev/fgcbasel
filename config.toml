@@ -1,0 +1,50 @@
+theme = "blist"
+languageCode = "en-US"
+baseurl = "https://fgcbasel.club"
+title = "FGC Basel"
+
+[params]
+description = "Fighting Game Community Basel"
+name = "FGC Basel"
+
+# Enable the darkmode toggle in header
+darkModeToggle = true
+
+# Enable search in header
+enableSearch = true
+
+# Custom copyright - optional
+copyright = "cool shit"
+favicon = "favicon.svg"
+
+# Color for the intro details and social links block, not applicable for dark mode
+# Supported values: Any color from TailwindCSS default colors
+# Reference: https://tailwindcss.com/docs/customizing-colors
+ascentColor = "bg-gray-200"
+
+[params.homepage]
+title = "FGC Basel"
+description = "This is the Homepage of the Fighting Game Community Basel."
+photo = "/picture.jpg"
+
+[params.homepage.social]
+title = "Events"
+description = "Check events on meetup.com/fgcbasel"
+
+[[menu.main]]
+name = "Versus Wednesdays"
+url = "/versus-wednesdays"
+
+[build]
+writeStats = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+[markup.highlight]
+style = "dracula"
+[markup.goldmark.renderer]
+# Enable to include inline HTML
+unsafe = true
