@@ -14,7 +14,7 @@ darkModeToggle = true
 enableSearch = true
 
 # Custom copyright - optional
-copyright = "cool shit"
+copyright = "Hey, come on!"
 favicon = "favicon.svg"
 
 # Color for the intro details and social links block, not applicable for dark mode
@@ -25,11 +25,11 @@ ascentColor = "bg-gray-200"
 [params.homepage]
 title = "Fighting Game Community Basel"
 description = "This is the Homepage of the Fighting Game Community Basel."
-# photo = "/picture.jpg"
+photo = "/banner.jpg"
 
 [params.homepage.social]
-title = "Events"
-description = "Check events on meetup.com/fgcbasel"
+title = "About"
+description = "Work in progress..."
 
 [[menu.main]]
 name = "Versus Wednesdays"
