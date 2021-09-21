@@ -5,9 +5,27 @@ media_folder: static/img
 public_folder: /img
 collections:
   - name: pages
+    label: "Pages"
     files:
       - name: versus-wednesdays
+        label: "Versus Wednesdays"
         file: content/versus-wednesdays.md
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Date (doesnt really matter)",
+              name: "date",
+              widget: "datetime",
+            }
+          - { label: "Description", name: "description", widget: "string" }
+          - {
+              label: "Thumbnail",
+              name: "thumbnail",
+              widget: "image",
+              required: false,
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "monthly-mash"
     label: "Monthly Mash Tournament"
     folder: "content/monthly-mash"
