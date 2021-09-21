@@ -1,7 +1,7 @@
 ---
 title: "Monthly Mash #2 Actress Again"
-date: 2021-08-29T17:30:30.372Z
-event_date: 2021-09-29T17:30:30.372Z
+date: 2021-09-21T12:15:54.291Z
+event_date: 2021-09-29T19:30:30.372Z
 description: "Monthly Mash #2 - Melty Blood Actress Again Current Code Tournament"
 thumbnail: /img/mmbaacc_logo.png
 ---
@@ -34,6 +34,7 @@ Have Fun!
 
 ## Join
 
-To join please preregister on Challonge here: https://challonge.com/mm2actressagain
+To join please preregister on Challonge here: https://challonge.com/mm2actressagain\
+You can also message me on Discord (okk#2094) to join, if you don't have/want a Challonge account.
 
 Check-in and entry fee is done/collected before the tournament on location **between 19:00 and 19:30**.
