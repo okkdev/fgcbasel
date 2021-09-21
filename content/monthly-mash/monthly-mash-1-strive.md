@@ -1,6 +1,7 @@
 ---
 title: "Monthly Mash #1 -Strive-"
 date: 2021-08-25T17:30:00.000Z
+event_date: 2021-08-25T17:30:00.000Z
 description: "Monthly Mash #1 Guilty Gear Strive Tournament"
 thumbnail: /img/mmstrive2.png
 ---
