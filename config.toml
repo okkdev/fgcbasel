@@ -1,6 +1,6 @@
 theme = "blist"
 languageCode = "en-US"
-baseurl = "/"
+baseurl = "https://fgcbasel.club"
 title = "FGC Basel"
 
 [params]
