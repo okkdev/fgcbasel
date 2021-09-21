@@ -4,16 +4,21 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
+  - name: pages
+    files:
+      - name: versus-wednesdays
+        file: content/versus-wednesdays.md
   - name: "monthly-mash"
     label: "Monthly Mash Tournament"
     folder: "content/monthly-mash"
     create: true
     slug: "{{slug}}"
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Event Date", name: "date", widget: "datetime" }
+      - { label: "Event Announcement Date", name: "date", widget: "datetime" }
+      - { label: "Event Date", name: "event_date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Thumbnail",
