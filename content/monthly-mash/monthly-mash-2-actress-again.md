@@ -7,13 +7,12 @@ thumbnail: /img/mmbaacc_logo.png
 ---
 ## Overview
 
-- Date: 29.09.2021
-- Time: 19:30
-- Location: [ManaBar Basel](https://manabar.ch/)
-- Entry fee: CHF 5.-
-- Game: Melty Blood Actress Again Current Code
-- 1st Prize: Melty Blood Type Lumina on platform of choice
-
+* Date: 29.09.2021
+* Time: 19:30
+* Location: [ManaBar Basel](https://manabar.ch/)
+* Venue fee: CHF 5.-
+* Game: Melty Blood Actress Again Current Code
+* 1st Prize: Melty Blood Type Lumina on platform of choice
 
 Fitting to the Melty Blood Type Lumina release a day later, we're hosting a Melty Blood Actress Again Current Code Tournament with a copy of Type Lumina as the grand prize.
 
@@ -25,12 +24,12 @@ We will be playing a double elimination bracket, with certain matches being stre
 
 All matches are:
 
-- First to 3
-- 2 Rounds
-- Loser is allowed switch character
-- There are no character or stage bans
+* First to 3
+* 2 Rounds
+* Loser is allowed switch character
+* There are no character or stage bans
 
-You can get the game, to prepare, easily from https://play.meltyblood.club!    
+You can get the game, to prepare, easily from https://play.meltyblood.club!\
 Have Fun!
 
 ## Join
