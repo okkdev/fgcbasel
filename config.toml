@@ -4,7 +4,7 @@ baseurl = "https://fgcbasel.club"
 title = "FGC Basel"
 
 [params]
-description = "Fighting Game Community Basel"
+description = "FGC Basel is a Fighting Game Community located in Basel City, Switzerland. We host weekly meetups and monthly tournaments."
 name = "FGC Basel"
 
 # Enable the darkmode toggle in header
