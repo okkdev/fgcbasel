@@ -12,7 +12,7 @@ Beginners are welcome!
 We usually have 3-4 setups (2x PS4/PS5 and 1x PC) with a variety of games.\
 There's two fight sticks in case you want to try or forgot your own. (Thanks Marco)\
 There is an entry fee of 5.- which is used for the venue and prize pools.\
-Join the HardRead Discord, `#versus_wednesdays_basel` channel, for further questions: https://discord.gg/sB4VQbf85h
+Join the HardRead Discord, `#versus_wednesdays_basel` channel, for further questions: [https://discord.gg/sB4VQbf85h](https://discord.gg/sB4VQbf85h)
 
 PS4 Games:
 * Guilty Gear -Strive-
@@ -32,4 +32,4 @@ Please note that this event is held in a bar. You are not allowed to bring your 
 Thank you.
 
 Weeklies are posted here:\
-https://meetup.com/fgcbasel
+[https://meetup.com/fgcbasel](https://meetup.com/fgcbasel)
