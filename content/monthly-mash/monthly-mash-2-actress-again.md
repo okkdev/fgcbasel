@@ -11,14 +11,14 @@ thumbnail: /img/mmbaacc_logo.png
 * Time: 19:30
 * Location: [ManaBar Basel](https://manabar.ch/)
 * Venue fee: CHF 5.-
-* Game: Melty Blood Actress Again Current Code
+* Game: Melty Blood Actress Again Current Code (Community Edition)
 * 1st Prize: Melty Blood Type Lumina on platform of choice
 
 Fitting to the Melty Blood Type Lumina release a day later, we're hosting a Melty Blood Actress Again Current Code Tournament with a copy of Type Lumina as the grand prize.
 
 ## Details
 
-We will be playing a double elimination bracket, with certain matches being streamed and commentated live by JustDave on https://twitch.tv/justdaveeu.
+We will be playing a double elimination bracket, with certain matches being streamed and commentated live by JustDave on [https://twitch.tv/justdaveeu](https://twitch.tv/justdaveeu).
 
 **Keep in mind that a Covid certificate is required to enter the bar/event**
 
@@ -26,15 +26,15 @@ All matches are:
 
 * First to 3
 * 2 Rounds
-* Loser is allowed switch character
+* Loser is allowed to switch character
 * There are no character or stage bans
 
-You can get the game, to prepare, easily from https://play.meltyblood.club!\
+You can get the game, to prepare, easily from [https://play.meltyblood.club](https://play.meltyblood.club)!\
 Have Fun!
 
 ## Join
 
-To join please preregister on Challonge here: https://challonge.com/mm2actressagain\
+To join please preregister on Challonge here: [https://challonge.com/mm2actressagain](https://challonge.com/mm2actressagain)\
 You can also message me on Discord (okk#2094) to join, if you don't have/want a Challonge account.
 
 Check-in and entry fee is done/collected before the tournament on location **between 19:00 and 19:30**.
