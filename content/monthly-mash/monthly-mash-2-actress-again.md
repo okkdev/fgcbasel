@@ -11,7 +11,11 @@ thumbnail: /img/mmbaacc_logo.png
 - 🥈 Cococo
 - 🥉 [Lobotronix](https://twitter.com/Lobotronix)
 
-{{< figure src="/img/mm2-winners.jpeg" title="Monthly Mash #2 Winners" >}}
+{{< figure src="/img/mm2-winners.jpeg" title="Monthly Mash #2 Top 8" >}}
+
+### Bracket
+
+[https://challonge.com/mm2actressagain](https://challonge.com/mm2actressagain)
 
 ---
 
