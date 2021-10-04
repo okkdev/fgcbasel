@@ -5,16 +5,21 @@ event_date: 2021-08-25T19:30:00.000Z
 description: "Monthly Mash #1 Guilty Gear Strive Tournament"
 thumbnail: /img/mmstrive2.png
 ---
-## Update
+## Winners
 
-The Winners are:
 - 🥇 [Zerochel](https://twitter.com/Zerochel_)
 - 🥈 Envy
 - 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
 
-{{< figure src="/img/mmstrive_winners.jpeg" title="Monthly Mash #1 -Strive- Winners" >}} 
+{{< figure src="/img/mmstrive_winners.jpeg" title="Monthly Mash #1 Top 8" >}} 
 
-## Original
+### Bracket
+
+[https://challonge.com/mmstrive](https://challonge.com/mmstrive)
+
+---
+
+## Details
 
 This month we're playing GUILTY GEAR -STRIVE-.    
 In order to win the prize pool (10CHF + all entry fees + any potential donations), all you need to do is sign up at the venue *before* 19:30 and beat all your opponents.
