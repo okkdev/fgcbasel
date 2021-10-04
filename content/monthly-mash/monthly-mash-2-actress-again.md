@@ -5,6 +5,16 @@ event_date: 2021-09-29T19:30:30.372Z
 description: "Monthly Mash #2 - Melty Blood Actress Again Current Code Tournament"
 thumbnail: /img/mmbaacc_logo.png
 ---
+## Winners
+
+- 🥇 Hamilton
+- 🥈 Cococo
+- 🥉 [Lobotronix](https://twitter.com/Lobotronix)
+
+{{< figure src="/img/mm2-winners.jpeg" title="Monthly Mash #2 Winners" >}}
+
+---
+
 ## Overview
 
 * Date: 29.09.2021
