@@ -7,9 +7,9 @@ thumbnail: /img/mmstrive2.png
 ---
 ## Winners
 
-- 🥇 [Zerochel](https://twitter.com/Zerochel_)
-- 🥈 Envy
-- 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
+1. 🥇 [Zerochel](https://twitter.com/Zerochel_)
+1. 🥈 Envy
+1. 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
 
 {{< figure src="/img/mmstrive_winners.jpeg" title="Monthly Mash #1 Top 8" >}} 
 
