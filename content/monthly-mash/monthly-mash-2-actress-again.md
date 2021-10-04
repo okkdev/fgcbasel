@@ -7,9 +7,9 @@ thumbnail: /img/mmbaacc_logo.png
 ---
 ## Winners
 
-- 🥇 Hamilton
-- 🥈 Cococo
-- 🥉 [Lobotronix](https://twitter.com/Lobotronix)
+1. 🥇 Hamilton
+1. 🥈 Cococo
+1. 🥉 [Lobotronix](https://twitter.com/Lobotronix)
 
 {{< figure src="/img/mm2-winners.jpeg" title="Monthly Mash #2 Top 8" >}}
 
