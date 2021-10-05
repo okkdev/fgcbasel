@@ -17,10 +17,13 @@
       "g",
       "h1",
       "h2",
+      "h3",
       "h4",
       "head",
       "header",
+      "hr",
       "html",
+      "iframe",
       "img",
       "input",
       "li",
@@ -28,6 +31,7 @@
       "link",
       "main",
       "meta",
+      "ol",
       "p",
       "path",
       "rect",
@@ -145,14 +149,15 @@
       "w-full"
     ],
     "ids": [
+      "bracket",
       "clip0",
       "details",
+      "grand-finals",
       "join",
-      "original",
       "overview",
       "path0",
       "svgg",
-      "update"
+      "winners"
     ]
   }
 }

@@ -13,6 +13,10 @@ thumbnail: /img/mmstrive2.png
 
 {{< figure src="/img/mmstrive_winners.jpeg" title="Monthly Mash #1 Top 8" >}} 
 
+### Grand Finals
+
+{{< twitch 1129870281 >}}
+
 ### Bracket
 
 [https://challonge.com/mmstrive](https://challonge.com/mmstrive)
