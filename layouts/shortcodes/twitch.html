@@ -1,4 +1,4 @@
 {{ $url := urls.Parse .Site.BaseURL }}
 <div style="padding-top: 56.25%; overflow: hidden; position: relative;">
-    <iframe style="position: absolute; left: 0; top: 0; border: 0;" src="https://player.twitch.tv/?video={{ .Get 0 }}&parent={{ $url.Host }}" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe>
+    <iframe style="position: absolute; left: 0; top: 0; border: 0;" src="https://player.twitch.tv/?video={{ .Get 0 }}&parent={{ $url.Host }}&autoplay=false&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe>
 </div>
