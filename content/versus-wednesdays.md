@@ -31,7 +31,6 @@ Many... Just dm me on Discord (@okk#2094) 😅
 You are free to bring your own console/PC if you want to play a specific game.
 
 Please note that this event is held in a bar. You are not allowed to bring your own drinks or food.\
-🚨 **Covid Certificate is required!** 🚨\
 Thank you.
 
 Weeklies are posted here:\
