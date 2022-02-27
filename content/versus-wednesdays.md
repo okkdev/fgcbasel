@@ -3,7 +3,7 @@ title: Versus Wednesdays
 description: Versus Wednesdays are a Fighting Game Weekly located in Basel, Switzerland.
 thumbnail: /img/versuswednesdays.png
 ---
-## 🚨 Versus Wednesdays are currently paused until the COVID situation gets better 🚨
+## 👏👏👏 WE ARE BACK! 👏👏👏
 
 Versus Wednesdays are a weekly fighting game meetup to challenge other players in various fighting games and level up as a community.\
 Casual matches and building an offline environment to play fighting games in Basel are the main focus.\
