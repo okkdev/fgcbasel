@@ -25,7 +25,7 @@ ascentColor = "bg-gray-200"
 [params.homepage]
 title = "Fighting Game Community Basel"
 description = "This is the Homepage of the Fighting Game Community Basel."
-photo = "/banner.jpg"
+photo = "/banner.webp"
 
 [params.homepage.social]
 title = "Socials"
