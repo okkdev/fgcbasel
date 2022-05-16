@@ -2,7 +2,7 @@
 title: "Monthly Mash #3 -Strive-"
 date: 2022-05-16T11:40:04.877Z
 event_date: 2022-05-25T20:00:04.883Z
-description: "Monthly Mash #3 Guilty Gear Strive Tournament"
+description: "Monthly Mash #3 Guilty Gear Strive Tournament. 25.05.2022 ManaBar Basel."
 thumbnail: /img/mmstrive2.png
 ---
 ## Overview
