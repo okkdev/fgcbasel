@@ -27,7 +27,7 @@ We will be playing a double elimination bracket, with some matches being streame
 
 All matches are:
 
-* First to 3
+* First to 3 aka Best of 5
 * 2 Rounds
 * Loser is allowed to switch character
 * There are no character or stage bans
