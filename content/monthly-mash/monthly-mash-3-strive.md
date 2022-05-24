@@ -14,7 +14,7 @@ We're hosting a simple Strive tournament to get back into the Monthly Mash cycle
 * Location: [ManaBar Basel](https://manabar.ch/)
 * Entry fee: CHF 7.-
 * Game: Guilty Gear -Strive-
-* Prize pool: CHF 10.- + CHF 2.- of every entry fee go into the prize pool. \
+* Prize pool: **CHF 160.-** + CHF 2.- of every entry fee go into the prize pool. \
   If the prize pool reaches:
 
   * CHF 20.- or less everything will be going to 1st place. 
