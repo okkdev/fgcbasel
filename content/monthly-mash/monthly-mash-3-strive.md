@@ -5,6 +5,26 @@ event_date: 2022-05-25T20:00:04.883Z
 description: "Monthly Mash #3 Guilty Gear Strive Tournament. 25.05.2022 ManaBar Basel."
 thumbnail: /img/mmstrive2.png
 ---
+## Winners
+
+1. 🥇 [HOE | Fuujin](https://twitter.com/oliverandstuff)
+2. 🥈 JTT2805
+3. 🥉 NVex
+
+{{< figure src="/img/mm3-winners.png" title="Monthly Mash #3 Top 8" >}}
+
+Total prize pool: **CHF 360.-**
+
+### Bracket
+
+<https://challonge.com/mm3strive>
+
+### VOD
+
+<https://www.twitch.tv/justdaveeu/v/1308795491?sr=a&t=6083s>
+
+- - -
+
 ## Overview
 
 We're hosting a simple Strive tournament to get back into the Monthly Mash cycle after a rather long COVID break. 😋
