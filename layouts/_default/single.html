@@ -1,8 +1,8 @@
 {{ define "main" }} {{ if .Params.thumbnail }}
-<div class="relative max-w-5xl max-h-32 mx-auto px-4">
+<div class="relative max-w-5xl mx-auto px-4">
   <img
     src="{{ .Params.thumbnail }}"
-    class="rounded-lg shadow-sm w-full object-contain"
+    class="rounded-lg shadow-sm w-full max-h-72 object-contain"
   />
   {{ if .Params.event_date }}
   <div
