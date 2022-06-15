@@ -3,6 +3,7 @@ title: "Monthly Mash #4 Duel"
 date: 2022-06-15T19:07:42.320Z
 event_date: 2022-06-29T20:00:51.568Z
 description: "Monthly Mash #4 DNF Duel Tournament. 29.06.2022 ManaBar Basel."
+thumbnail: /img/mmduel.png
 ---
 ## Overview
 
