@@ -14,9 +14,7 @@ We are hosting a tournament as a celebration for the release of DNF Duel. Show u
 * Location: [ManaBar Basel](https://manabar.ch/)
 * Entry fee: CHF 5.- (Pay at the bar counter)
 * Game: DNF Duel
-* Prize pool:
-
-  * 1st Place: DNF Duel for a platform of choice
+* Prize pool: 1st Place wins DNF Duel for a platform of choice
 
 ## Details
 
