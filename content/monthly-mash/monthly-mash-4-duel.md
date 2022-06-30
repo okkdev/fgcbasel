@@ -5,6 +5,17 @@ event_date: 2022-06-29T20:00:51.568Z
 description: "Monthly Mash #4 DNF Duel Tournament. 29.06.2022 ManaBar Basel."
 thumbnail: /img/mmduel.png
 ---
+## Winners
+
+* 🥇 NVex
+* 🥈 HR | Hamilton
+* 🥉 Skydweller
+
+**Total prize pool after donations:**
+CHF 100.- and a copy of DNF Duel
+
+- - -
+
 ## Overview
 
 We are hosting a tournament as a celebration for the release of DNF Duel. Show us your spicy day 1 tech and win a copy of DNF Duel for you or a friend!
