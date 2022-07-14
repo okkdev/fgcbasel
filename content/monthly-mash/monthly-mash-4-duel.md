@@ -14,6 +14,10 @@ thumbnail: /img/mmduel.png
 **Total prize pool after donations:**
 CHF 100.- and a copy of DNF Duel
 
+## VOD
+
+{{< youtube ExpyOwAwkWY >}}
+
 - - -
 
 ## Overview
