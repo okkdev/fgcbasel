@@ -9,7 +9,9 @@ thumbnail: /img/mmduel.png
 
 * 🥇 NVex
 * 🥈 HR | Hamilton
-* 🥉 Skydweller
+* 🥉 [Skydweller](https://twitter.com/Skydwellerlmao)
+
+{{< figure src="/img/mm4-winners.png" title="Monthly Mash #4 Top 8" >}}
 
 **Total prize pool after donations:**
 CHF 100.- and a copy of DNF Duel
