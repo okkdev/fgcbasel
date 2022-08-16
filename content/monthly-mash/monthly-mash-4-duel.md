@@ -47,5 +47,5 @@ Matches are:
 
 ## Join
 
-To join please preregister on Challonge here: <https://challonge.com/mm4duel>[](https://challonge.com/mm3strive)\
+To join please preregister on Challonge here: <https://challonge.com/mm4duel>[](https://challonge.com/mm4duel)\
 You can also message me on Discord (okk#2094) to join, if you don't have/want a Challonge account.
