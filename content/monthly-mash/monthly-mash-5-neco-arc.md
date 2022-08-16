@@ -7,7 +7,7 @@ thumbnail: /img/mm5logo.gif
 ---
 ## Overview
 
-We're hosting a Neco Arc Tournament in celebration of the addition of la creatura in Melty Blood Type Lumina. The only allowed character is Neco Arc. Let's see who's the best Neco Arc! **Burunya!** 
+We're hosting a Neco Arc tournament in celebration of the addition of la creatura in Melty Blood Type Lumina. The only allowed character is Neco Arc. Let's see who's the best Neco Arc! Burunya!
 
 * Date: 29.06.2022
 * Time: 20:00 (**Check-in closes 19:45**)
