@@ -9,7 +9,7 @@ thumbnail: /img/mm5logo.gif
 
 We're hosting a Neco Arc tournament in celebration of the addition of la creatura in Melty Blood Type Lumina. The only allowed character is Neco Arc. Let's see who's the best Neco Arc! Burunya!
 
-* Date: 29.06.2022
+* Date: 31.08.2022
 * Time: 20:00 (**Check-in closes 19:45**)
 * Location: [ManaBar Basel](https://manabar.ch/)
 * Entry fee: CHF 7.- (Pay 5.- at the bar counter and **bring 2.- cash for the pot**)
