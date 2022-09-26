@@ -18,7 +18,7 @@ thumbnail: /img/mm6-logo.png
 
   * CHF 20.- or less everything will be going to 1st place.
   * more than CHF 20.- it will be split 75/25 between 1st and 2nd place.
-  * more than CHF 60.- it will be split 70/20/10 between 1st, 2nd, and 3rd place.
+  * more than CHF 60.- it will be split 50/30/20 between 1st, 2nd, and 3rd place.
 
 ## Details
 
