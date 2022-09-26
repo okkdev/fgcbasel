@@ -5,6 +5,17 @@ event_date: 2022-08-31T20:00:26.918Z
 description: "Monthly Mash #5 Neco Arc Tournament held on the 31.08.2022 in ManaBar Basel."
 thumbnail: /img/mm5logo.gif
 ---
+## Winners
+
+* 🥇 HR | Hamilton
+* 🥈 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)
+* 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
+
+{{< figure src="/img/mm5-top8.png" title="Monthly Mash #5 Top 8" >}}
+
+**Total prize pool after donations:**
+CHF 360.-
+
 ## Overview
 
 We're hosting a Neco Arc tournament in celebration of the addition of la creatura in Melty Blood Type Lumina. The only allowed character is Neco Arc. Let's see who's the best Neco Arc! Burunya!
