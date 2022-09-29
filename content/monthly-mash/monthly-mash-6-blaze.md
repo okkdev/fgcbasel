@@ -14,6 +14,8 @@ thumbnail: /img/mm6-logo.png
 
 T﻿otal prize pool: CHF 51.-
 
+-﻿--
+
 ## Overview
 
 * Date: 28.09.2022
