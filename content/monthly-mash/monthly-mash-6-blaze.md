@@ -6,6 +6,14 @@ description: "Monthly Mash #6 Blaze. Lethal League Blaze Tournament held on the
   28.09.2022 at ManaBar Basel."
 thumbnail: /img/mm6-logo.png
 ---
+## Winners
+
+- 🥇 [Bowli](https://twitter.com/BowliXX)
+- 🥈 [TakeYourTime](https://twitter.com/takeyourtime999)
+- 🥉 [Neyrision](https://twitter.com/Neyrision)
+
+T﻿otal prize pool: CHF 51.-
+
 ## Overview
 
 * Date: 28.09.2022
