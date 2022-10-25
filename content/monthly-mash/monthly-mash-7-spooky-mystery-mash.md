@@ -24,11 +24,6 @@ thumbnail: /img/mm7-logo.png
 
 We will be playing round robin or swiss rounds depending on player number.
 
-Matches are:
-
-* First to 2 aka Best of 3
-* First to 3 aka Best of 5 in winners/losers/grand finals
-
 ## Join
 
 To join please preregister on Challonge here: <https://challonge.com/mm7spooky>\
