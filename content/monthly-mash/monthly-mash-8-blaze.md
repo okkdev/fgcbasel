@@ -22,7 +22,7 @@ thumbnail: /img/mm6-logo.png
 
 ## Details
 
-We will be playing a double elimination bracket, with some matches being streamed and commentated live by \[JustDaveEU](https://twitter.com/justdaveeu) and \[Vacation](https://twitter.com/arcunemu) <https://twitch.tv/justdaveeu>.
+We will be playing a double elimination bracket, with some matches being streamed and commentated live by [JustDaveEU](https://twitter.com/justdaveeu) and [Vacation](https://twitter.com/arcunemu) <https://twitch.tv/justdaveeu>.
 
 Matches are:
 
