@@ -3,6 +3,11 @@ title: Versus Wednesdays
 description: Versus Wednesdays are a Fighting Game Weekly located in Basel, Switzerland.
 thumbnail: /img/versuswednesdays.png
 ---
+#﻿ 🚨 ManaBar is closed from the 19.12. till the 30.12. 🚨
+#﻿# That means no weekly on the 21.12. and 28.12.
+
+
+
 Versus Wednesdays are a weekly fighting game meetup to challenge other players in various fighting games and level up as a community.\
 Casual matches and building an offline environment to play fighting games in Basel are the main focus.
 
