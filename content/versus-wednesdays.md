@@ -18,7 +18,7 @@ Beginners are welcome!
 * Venue fee: CHF 5.-
 * Questions and updates in the HardRead Discord, `#versus_wednesdays_basel` channel: <https://discord.gg/sB4VQbf85h>
 
-We usually have 3-4 setups (2x PS4/PS5 and 1x PC) with a variety of games.
+We usually have 3-4 setups (2x PS4/PS5 and PCs) with a variety of games.
 
 PS4 Games:
 
