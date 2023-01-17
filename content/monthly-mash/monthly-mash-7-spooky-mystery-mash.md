@@ -6,6 +6,14 @@ description: Spooky Mystery Mash Tournament. Mystery Game Tournament hosted at
   ManaBar Basel.
 thumbnail: /img/mm7-logo.png
 ---
+#﻿# Winners
+
+- 🥇 Hamilton
+- 🥈 IronIceMilo
+- 🥉 [JustDaveEU](https://twitter.com/JustDaveEU)
+
+- - -
+
 ## Overview
 
 * Date: 26.10.2022
