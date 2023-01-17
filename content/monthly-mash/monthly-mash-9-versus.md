@@ -4,6 +4,7 @@ date: 2023-01-17T08:38:02.496Z
 event_date: 2023-01-25T08:38:02.500Z
 description: "Monthly Mash #9 Versus. Granblue Fantasy Versus Tournament held on
   the 25.01.2023 at ManaBar Basel."
+thumbnail: /img/mm9-logo.png
 ---
 ## Overview
 
