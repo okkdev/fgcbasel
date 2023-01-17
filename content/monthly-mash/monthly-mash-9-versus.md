@@ -22,7 +22,7 @@ thumbnail: /img/mm9-logo.png
 
 ## Details
 
-We will be playing a double elimination bracket.
+We will be playing a double elimination bracket, with some matches being streamed and casted live by JustDaveEU and friends on <https://twitch.tv/justdaveeu>.
 
 Matches are:
 
