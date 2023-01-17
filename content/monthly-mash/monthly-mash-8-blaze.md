@@ -6,6 +6,14 @@ description: "Monthly Mash #8 Blaze. Lethal League Blaze Tournament held on the
   30.11.2022 at ManaBar Basel."
 thumbnail: /img/mm6-logo.png
 ---
+#﻿# Winners
+
+- 🥇 FOOL!
+- 🥈 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)
+- 🥉 [okk](https://twitter.com/okk2094)
+
+- - -
+
 ## Overview
 
 * Date: 30.11.2022
