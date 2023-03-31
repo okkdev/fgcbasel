@@ -6,6 +6,14 @@ description: "Monthly Mash #9 Versus. Granblue Fantasy Versus Tournament held on
   the 25.01.2023 at ManaBar Basel."
 thumbnail: /img/mm9-logo.png
 ---
+## Winners
+
+1. 🥇 MrPow
+1. 🥈 NVex
+1. 🥉 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)
+
+---
+
 ## Overview
 
 * Date: 25.01.2023
