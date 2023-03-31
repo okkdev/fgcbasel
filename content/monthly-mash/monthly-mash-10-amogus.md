@@ -6,6 +6,14 @@ description: "Monthly Mash #10 Amogus. Among Us Arena Tournament held on the
   22.02.2023 at ManaBar Basel."
 thumbnail: /img/mm10-logo.png
 ---
+## Winners
+
+1. 🥇 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)
+1. 🥈 Gold
+1. 🥉 [Neyrision](https://twitter.com/Neyrision)
+
+---
+
 ## Overview
 
 * Date: 22.02.2023
