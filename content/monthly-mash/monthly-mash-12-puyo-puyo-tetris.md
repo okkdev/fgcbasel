@@ -4,6 +4,7 @@ date: 2023-05-01T14:21:18.685Z
 event_date: 2023-05-03T20:00:18.689Z
 description: "Monthly Mash #12 Puyo Puyo Tetris. Puyo Puyo Tetris 2 Tournament
   held on the 03.05.2023 at ManaBar Basel."
+thumbnail: /img/mm12-logo.png
 ---
 ## Overview
 
