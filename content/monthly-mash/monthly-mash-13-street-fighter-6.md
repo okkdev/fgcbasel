@@ -1,5 +1,5 @@
 ---
-title: Monthly Mash 13 - Street Fighter 6
+title: Monthly Mash 13 Street Fighter 6
 date: 2023-05-29T21:44:09.805Z
 event_date: 2023-06-02T20:00:09.811Z
 description: Monthly Mash 13 Street Fighter 6 release tournament. Show us your
