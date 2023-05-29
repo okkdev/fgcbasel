@@ -22,7 +22,7 @@ thumbnail: /img/mm13-logo.png
 
 ## Details
 
-To celebrate the launch of Street Fighter 6 we'll be running a release tournament. Unfortunately we don't know at which time the game unlocks yet, so if the game doesn't become available till 20:00 we'll have to evade to the demo or another Street Fighter.\
+To celebrate the launch of Street Fighter 6 we'll be running a release tournament. Unfortunately we don't know at which time the game unlocks yet, so if the game doesn't become available till 20:00 we'll run an alternative event.\
 We will be playing a double elimination bracket, with some matches being streamed and casted live on <https://twitch.tv/justdaveeu>.
 
 Matches are:
