@@ -2,8 +2,8 @@
 title: "Monthly Mash #13 Street Fighter 6"
 date: 2023-05-29T21:44:09.805Z
 event_date: 2023-06-02T20:00:09.811Z
-description: "Monthly Mash #13 Street Fighter 6 release tournament. Show us your
-  Day 0 tech on Friday 02.06.2023 at ManaBar Basel."
+description: "Monthly Mash #13 Street Fighter 6 launch party with tournament.
+  Show us your Day 0 tech on Friday 02.06.2023 at ManaBar Basel."
 thumbnail: /img/mm13-logo.png
 ---
 ## Overview
@@ -22,7 +22,7 @@ thumbnail: /img/mm13-logo.png
 
 ## Details
 
-To celebrate the launch of Street Fighter 6 we'll be running a release tournament. Unfortunately we don't know at which time the game unlocks yet, so if the game doesn't become available till 20:00 we'll run an alternative event.\
+To celebrate the launch of Street Fighter 6 we'll be hosting a launch party with tournament. Unfortunately we don't know at which time the game unlocks yet, so if the game doesn't become available till 20:00 we'll run an alternative event.\
 We will be playing a double elimination bracket, with some matches being streamed and casted live on <https://twitch.tv/justdaveeu>.
 
 Matches are:
