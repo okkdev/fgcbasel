@@ -6,6 +6,14 @@ description: "Monthly Mash #12 Puyo Puyo Tetris. Puyo Puyo Tetris 2 Tournament
   held on the 03.05.2023 at ManaBar Basel."
 thumbnail: /img/mm12-logo.png
 ---
+## Winners
+
+1. 🥇 [Bowli](https://twitter.com/bowlixx)
+1. 🥈 [Neyrision](https://twitter.com/neyrision)
+1. 🥉 [LittleKilli](https://twitter.com/Littlekilli)
+
+---
+
 ## Overview
 
 * Date: 03.05.2023
