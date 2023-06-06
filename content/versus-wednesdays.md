@@ -30,7 +30,7 @@ PS4 Games:
 * Street Fighter 30th Anniversary Collection
 
 PC Games:\
-Many... Message me on Discord for questions (@okk#2094) 😄
+Many... Message me on Discord for questions (@okk) 😄
 
 You are free to bring your own console/PC if you want to play a specific game.
 
