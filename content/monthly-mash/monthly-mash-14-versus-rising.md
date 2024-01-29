@@ -4,6 +4,7 @@ date: 2024-01-29T10:54:13.173Z
 event_date: 2024-01-31T20:00:13.235Z
 description: "Monthly Mash #14 Versus Rising. Granblue Fantasy Versus Rising
   Tournament held on the 31.01.2024 at ManaBar Basel."
+thumbnail: /img/gbvsr_logo.png
 ---
 ## Overview
 
