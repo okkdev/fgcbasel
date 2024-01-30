@@ -30,5 +30,5 @@ Matches are:
 
 ## Join
 
-To join please preregister on Challonge here: <>\
+To join please preregister on Challonge here: Link will follow shortly\
 You can also message me on Discord (okk#2094) to join, if you don't have/want a Challonge account.
