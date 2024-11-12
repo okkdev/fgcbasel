@@ -1,19 +1,21 @@
 ---
-title: Versus Wednesdays
+title: Versus Wednesdays (on Tuesdays)
 description: Versus Wednesdays are a Fighting Game Weekly located in Basel, Switzerland.
 thumbnail: /img/versuswednesdays.png
 ---
-Versus Wednesdays are a weekly fighting game meetup to challenge other players in various fighting games and level up as a community.\
+⚠️ The weekly has moved to Tuesday! ⚠️
+
+Versus Wednesdays (on Tuesdays) are a weekly fighting game meetup to challenge other players in various fighting games and level up as a community.\
 Casual matches and building an offline environment to play fighting games in Basel are the main focus.
 
-Every last Wednesday of the month is replaced by a [Monthly Mash Tournament](/monthly-mash)!
+Every last Tuesdays of the month is replaced by a [Monthly Mash Tournament](/monthly-mash)!
 
 Beginners are welcome!
 
 ## Details
 
 * Location: [ManaBar Basel](https://manabar.ch/)
-* Date: Every Wednesday (double check on [Meetup.com](https://meetup.com/fgcbasel) to make sure it's not cancelled)
+* Date: Every Tuesday
 * Time: 19:00 - 23:00
 * Venue fee: CHF 5.-
 * Questions and updates in the HardRead Discord, `#basel-versus-wednesdays` channel: <https://discord.gg/sB4VQbf85h>
