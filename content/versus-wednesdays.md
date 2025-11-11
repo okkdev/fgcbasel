@@ -1,6 +1,6 @@
 ---
-title: Versus Wednesdays (on Tuesdays)
-description: Versus Wednesdays are a Fighting Game Weekly located in Basel, Switzerland.
+title: Versus Tuesdays
+description: Versus Tuesdays are a Fighting Game Weekly located in Basel, Switzerland.
 thumbnail: /img/versuswednesdays.png
 ---
 ⚠️ The weekly has moved to Tuesday! ⚠️
