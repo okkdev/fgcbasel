@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #17 TEKKEN 8"
-date: 2024-04-17T09:31:58.933Z
-event_date: 2024-04-24T20:00:58.936Z
-description: "Monthly Mash #17 TEKKEN 8. TEKKEN 8 Tournament held on the
-  24.04.2024 at ManaBar Basel."
-thumbnail: /img/mm17-logo.png
----
++++
+title = "Monthly Mash #17 TEKKEN 8"
+date = 2024-04-17
+description = "Monthly Mash #17 TEKKEN 8. TEKKEN 8 Tournament held on the 24.04.2024 at ManaBar Basel."
+
+[extra]
+event_date = "2024-04-24T20:00:58Z"
+thumbnail = "/img/mm17-logo.png"
++++
 ## Overview
 
 * Date: 24.04.2024

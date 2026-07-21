@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #7 Spooky Mystery Mash"
-date: 2022-10-25T11:55:44.491Z
-event_date: 2022-10-26T20:00:44.495Z
-description: Spooky Mystery Mash Tournament. Mystery Game Tournament hosted at
-  ManaBar Basel.
-thumbnail: /img/mm7-logo.png
----
++++
+title = "Monthly Mash #7 Spooky Mystery Mash"
+date = 2022-10-25
+description = "Spooky Mystery Mash Tournament. Mystery Game Tournament hosted at ManaBar Basel."
+
+[extra]
+event_date = "2022-10-26T20:00:44Z"
+thumbnail = "/img/mm7-logo.png"
++++
 #﻿# Winners
 
 - 🥇 Hamilton

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ config.default_language }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+    <link rel="icon" href="{{ config.extra.favicon }}" />
+    <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}" />
+    {% block head_extra %}{% endblock head_extra %}
+    <script>
+      // Apply theme before first paint to avoid a flash.
+      (function () {
+        var t = localStorage.getItem("theme");
+        if (!t) t = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        document.documentElement.setAttribute("data-theme", t);
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="/">{{ config.extra.name }}</a>
+        <nav class="nav">
+          {% for item in config.extra.menu %}
+          <a href="{{ item.url }}">{{ item.name }}</a>
+          {% endfor %}
+          <button class="theme-toggle" type="button" aria-label="Toggle dark mode" onclick="toggleTheme()">◐</button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      {% block content %}{% endblock content %}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span>{{ config.extra.copyright }}</span>
+        <button class="to-top" type="button" aria-label="Back to top" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })">↑</button>
+      </div>
+    </footer>
+
+    <script>
+      function toggleTheme() {
+        var cur = document.documentElement.getAttribute("data-theme");
+        var next = cur === "dark" ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        localStorage.setItem("theme", next);
+      }
+    </script>
+  </body>
+</html>

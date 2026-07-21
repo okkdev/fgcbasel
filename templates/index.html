@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% block content %}
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-text">
+      <h1>{{ config.extra.homepage.title }}</h1>
+      <p>{{ config.extra.homepage.description }}</p>
+    </div>
+    {% if config.extra.banner %}
+    <img class="hero-banner" src="{{ config.extra.banner }}" alt="{{ config.extra.name }}" />
+    {% endif %}
+  </div>
+</section>
+
+{% set mm = get_section(path="monthly-mash/_index.md") %}
+<section class="container section-block">
+  <div class="card-grid">
+    {% for page in mm.pages | slice(end=6) %}
+    {{ macros::card(page=page) }}
+    {% endfor %}
+  </div>
+  {% if mm.pages | length > 6 %}
+  <div class="more">
+    <a class="button" href="/monthly-mash/">More posts</a>
+  </div>
+  {% endif %}
+</section>
+
+{{ macros::social() }}
+{% endblock content %}

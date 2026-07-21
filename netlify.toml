@@ -1,0 +1,15 @@
+[build]
+publish = "public"
+command = "zola build"
+
+[build.environment]
+# Pin to the version you run locally (check with: zola --version)
+ZOLA_VERSION = "0.22.1"
+
+# Preview builds (PRs / branch deploys) render with the temporary Netlify URL
+# as the base_url so links/assets resolve on the preview domain.
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+command = "zola build --base-url $DEPLOY_PRIME_URL"

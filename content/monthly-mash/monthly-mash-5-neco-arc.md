@@ -1,17 +1,19 @@
----
-title: "Monthly Mash #5 Neco Arc"
-date: 2022-08-16T11:12:26.912Z
-event_date: 2022-08-31T20:00:26.918Z
-description: "Monthly Mash #5 Neco Arc Tournament held on the 31.08.2022 in ManaBar Basel."
-thumbnail: /img/mm5logo.gif
----
++++
+title = "Monthly Mash #5 Neco Arc"
+date = 2022-08-16
+description = "Monthly Mash #5 Neco Arc Tournament held on the 31.08.2022 in ManaBar Basel."
+
+[extra]
+event_date = "2022-08-31T20:00:26Z"
+thumbnail = "/img/mm5logo.gif"
++++
 ## Winners
 
 * 🥇 HR | Hamilton
 * 🥈 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)
 * 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
 
-{{< figure src="/img/mm5-top8.png" title="Monthly Mash #5 Top 8" >}}
+{{ figure(src="/img/mm5-top8.png", title="Monthly Mash #5 Top 8") }}
 
 **Total prize pool after donations:**
 CHF 360.-

@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #13 Street Fighter 6"
-date: 2023-05-29T21:44:09.805Z
-event_date: 2023-06-02T20:00:09.811Z
-description: "Monthly Mash #13 Street Fighter 6 launch party with tournament.
-  Show us your Day 0 tech on Friday 02.06.2023 at ManaBar Basel."
-thumbnail: /img/mm13-logo.png
----
++++
+title = "Monthly Mash #13 Street Fighter 6"
+date = 2023-05-29
+description = "Monthly Mash #13 Street Fighter 6 launch party with tournament. Show us your Day 0 tech on Friday 02.06.2023 at ManaBar Basel."
+
+[extra]
+event_date = "2023-06-02T20:00:09Z"
+thumbnail = "/img/mm13-logo.png"
++++
 ## Overview
 
 * Date: 02.06.2023 (**Friday!**)

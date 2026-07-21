@@ -1,9 +1,8 @@
-# Generated files by hugo
+# Zola build output
 /public/
-/resources/_gen/
- 
-# node
-node_modules/
+
+# nix / direnv
+.direnv/
 
 # macos
 .DS_Store

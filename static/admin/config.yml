@@ -1,24 +1,29 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
 media_folder: static/img
 public_folder: /img
 collections:
   - name: pages
     label: "Pages"
     files:
-      - name: versus-wednesdays
-        label: "Versus Wednesdays"
-        file: content/versus-wednesdays.md
+      - name: versus-thursdays
+        label: "Versus Thursdays"
+        file: content/versus-thursdays.md
+        format: toml-frontmatter
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "string" }
-          - {
-              label: "Thumbnail",
-              name: "thumbnail",
-              widget: "image",
-              required: false,
-            }
+          - label: "Extra"
+            name: "extra"
+            widget: "object"
+            fields:
+              - {
+                  label: "Thumbnail",
+                  name: "thumbnail",
+                  widget: "image",
+                  required: false,
+                }
           - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "monthly-mash"
@@ -26,27 +31,34 @@ collections:
     folder: "content/monthly-mash"
     create: true
     slug: "{{slug}}"
+    format: toml-frontmatter
     editor:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
-          label: "Event Announcement Date",
+          label: "Announcement Date",
           name: "date",
           widget: "datetime",
-          picker_utc: true,
-        }
-      - {
-          label: "Event Date",
-          name: "event_date",
-          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
           picker_utc: true,
         }
       - { label: "Description", name: "description", widget: "string" }
-      - {
-          label: "Thumbnail",
-          name: "thumbnail",
-          widget: "image",
-          required: false,
-        }
+      - label: "Extra"
+        name: "extra"
+        widget: "object"
+        fields:
+          - {
+              label: "Event Date",
+              name: "event_date",
+              widget: "datetime",
+              picker_utc: true,
+            }
+          - {
+              label: "Thumbnail",
+              name: "thumbnail",
+              widget: "image",
+              required: false,
+            }
       - { label: "Body", name: "body", widget: "markdown" }

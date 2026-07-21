@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #6 Blaze"
-date: 2022-09-26T09:49:03.973Z
-event_date: 2022-09-28T20:00:59.796Z
-description: "Monthly Mash #6 Blaze. Lethal League Blaze Tournament held on the
-  28.09.2022 at ManaBar Basel."
-thumbnail: /img/mm6-logo.png
----
++++
+title = "Monthly Mash #6 Blaze"
+date = 2022-09-26
+description = "Monthly Mash #6 Blaze. Lethal League Blaze Tournament held on the 28.09.2022 at ManaBar Basel."
+
+[extra]
+event_date = "2022-09-28T20:00:59Z"
+thumbnail = "/img/mm6-logo.png"
++++
 ## Winners
 
 - 🥇 [Bowli](https://twitter.com/BowliXX)

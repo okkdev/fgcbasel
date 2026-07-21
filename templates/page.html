@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% block title %}{{ page.title }} - {{ config.title }}{% endblock title %}
+{% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
+{% block head_extra %}
+{% if page.extra.thumbnail %}<meta property="og:image" content="{{ page.extra.thumbnail }}" />{% endif %}
+{% endblock head_extra %}
+
+{% block content %}
+{% if page.extra.thumbnail %}
+<div class="container post-hero">
+  <img src="{{ page.extra.thumbnail }}" alt="{{ page.title }}" />
+  {% if page.extra.event_date %}
+  <span class="post-date">{{ page.extra.event_date | date(format="%B %-d, %Y, %H:%M") }}</span>
+  {% endif %}
+</div>
+{% endif %}
+
+<article class="prose container post">
+  <h1>{{ page.title }}</h1>
+  {{ page.content | safe }}
+</article>
+
+{{ macros::social() }}
+{% endblock content %}

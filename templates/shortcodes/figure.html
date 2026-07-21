@@ -1,0 +1,4 @@
+<figure class="figure">
+  <img src="{{ src }}"{% if alt %} alt="{{ alt }}"{% elif title %} alt="{{ title }}"{% endif %} loading="lazy" />
+  {% if title %}<figcaption>{{ title }}</figcaption>{% endif %}
+</figure>

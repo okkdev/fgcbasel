@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #16 Who's Next"
-date: 2024-03-25T09:31:58.933Z
-event_date: 2024-03-27T20:00:58.936Z
-description: "Monthly Mash #16 Who's Next. DNF Duel Tournament held on the
-  27.03.2024 at ManaBar Basel."
-thumbnail: /img/mmduel.png
----
++++
+title = "Monthly Mash #16 Who's Next"
+date = 2024-03-25
+description = "Monthly Mash #16 Who's Next. DNF Duel Tournament held on the 27.03.2024 at ManaBar Basel."
+
+[extra]
+event_date = "2024-03-27T20:00:58Z"
+thumbnail = "/img/mmduel.png"
++++
 ## Overview
 
 * Date: 27.03.2024

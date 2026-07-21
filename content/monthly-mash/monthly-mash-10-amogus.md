@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #10 Amogus"
-date: 2023-02-15T16:09:43.058Z
-event_date: 2023-02-22T20:00:41.794Z
-description: "Monthly Mash #10 Amogus. Among Us Arena Tournament held on the
-  22.02.2023 at ManaBar Basel."
-thumbnail: /img/mm10-logo.png
----
++++
+title = "Monthly Mash #10 Amogus"
+date = 2023-02-15
+description = "Monthly Mash #10 Amogus. Among Us Arena Tournament held on the 22.02.2023 at ManaBar Basel."
+
+[extra]
+event_date = "2023-02-22T20:00:41Z"
+thumbnail = "/img/mm10-logo.png"
++++
 ## Winners
 
 1. 🥇 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)

@@ -1,21 +1,23 @@
----
-title: "Monthly Mash #1 -Strive-"
-date: 2021-08-25T17:30:00.000Z
-event_date: 2021-08-25T19:30:00.000Z
-description: "Monthly Mash #1 Guilty Gear Strive Tournament"
-thumbnail: /img/mmstrive2.png
----
++++
+title = "Monthly Mash #1 -Strive-"
+date = 2021-08-25
+description = "Monthly Mash #1 Guilty Gear Strive Tournament"
+
+[extra]
+event_date = "2021-08-25T19:30:00Z"
+thumbnail = "/img/mmstrive2.png"
++++
 ## Winners
 
 1. 🥇 [Zerochel](https://twitter.com/Zerochel_)
 1. 🥈 Envy
 1. 🥉 [TakeYourTime](https://twitter.com/takeyourtime999)
 
-{{< figure src="/img/mmstrive_winners.jpeg" title="Monthly Mash #1 Top 8" >}} 
+{{ figure(src="/img/mmstrive_winners.jpeg", title="Monthly Mash #1 Top 8") }} 
 
 ### Grand Finals
 
-{{< twitch 1129870281 >}}
+{{ twitch(id="1129870281") }}
 
 ### Bracket
 

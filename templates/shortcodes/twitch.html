@@ -1,0 +1,8 @@
+{% set host = config.base_url | split(pat="://") | last | split(pat="/") | first %}
+<div class="video-embed">
+  <iframe
+    src="https://player.twitch.tv/?video={{ id }}&parent={{ host }}&autoplay=false&muted=true"
+    frameborder="0"
+    allowfullscreen="true"
+    scrolling="no"></iframe>
+</div>

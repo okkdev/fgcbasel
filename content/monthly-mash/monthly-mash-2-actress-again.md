@@ -1,17 +1,19 @@
----
-title: "Monthly Mash #2 Actress Again"
-date: 2021-09-21T12:15:54.291Z
-event_date: 2021-09-29T19:30:30.372Z
-description: "Monthly Mash #2 - Melty Blood Actress Again Current Code Tournament"
-thumbnail: /img/mmbaacc_logo.png
----
++++
+title = "Monthly Mash #2 Actress Again"
+date = 2021-09-21
+description = "Monthly Mash #2 - Melty Blood Actress Again Current Code Tournament"
+
+[extra]
+event_date = "2021-09-29T19:30:30Z"
+thumbnail = "/img/mmbaacc_logo.png"
++++
 ## Winners
 
 1. 🥇 Hamilton
 1. 🥈 Cococo
 1. 🥉 [Lobotronix](https://twitter.com/Lobotronix)
 
-{{< figure src="/img/mm2-winners.jpeg" title="Monthly Mash #2 Top 8" >}}
+{{ figure(src="/img/mm2-winners.jpeg", title="Monthly Mash #2 Top 8") }}
 
 ### Bracket
 

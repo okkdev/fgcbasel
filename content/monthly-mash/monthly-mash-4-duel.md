@@ -1,24 +1,26 @@
----
-title: "Monthly Mash #4 Duel"
-date: 2022-06-15T19:07:42.320Z
-event_date: 2022-06-29T20:00:51.568Z
-description: "Monthly Mash #4 DNF Duel Tournament. 29.06.2022 ManaBar Basel."
-thumbnail: /img/mmduel.png
----
++++
+title = "Monthly Mash #4 Duel"
+date = 2022-06-15
+description = "Monthly Mash #4 DNF Duel Tournament. 29.06.2022 ManaBar Basel."
+
+[extra]
+event_date = "2022-06-29T20:00:51Z"
+thumbnail = "/img/mmduel.png"
++++
 ## Winners
 
 * 🥇 NVex
 * 🥈 HR | Hamilton
 * 🥉 [Skydweller](https://twitter.com/Skydwellerlmao)
 
-{{< figure src="/img/mm4-winners.png" title="Monthly Mash #4 Top 8" >}}
+{{ figure(src="/img/mm4-winners.png", title="Monthly Mash #4 Top 8") }}
 
 **Total prize pool after donations:**
 CHF 100.- and a copy of DNF Duel
 
 ## VOD
 
-{{< youtube ExpyOwAwkWY >}}
+{{ youtube(id="ExpyOwAwkWY") }}
 
 - - -
 

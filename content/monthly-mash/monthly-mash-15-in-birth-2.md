@@ -1,11 +1,12 @@
----
-title: "Monthly Mash #15 In-Birth 2"
-date: 2024-02-21T16:38:14.213Z
-event_date: 2024-02-28T20:00:59.109Z
-description: "Monthly Mash #15 In-Birth 2. Under Night In-Birth 2 Sys:Celes
-  Tournament held on the 28.02.2024 at ManaBar Basel."
-thumbnail: /img/uni2-logo.png
----
++++
+title = "Monthly Mash #15 In-Birth 2"
+date = 2024-02-21
+description = "Monthly Mash #15 In-Birth 2. Under Night In-Birth 2 Sys:Celes Tournament held on the 28.02.2024 at ManaBar Basel."
+
+[extra]
+event_date = "2024-02-28T20:00:59Z"
+thumbnail = "/img/uni2-logo.png"
++++
 ## Overview
 
 * Date: 28.02.2024

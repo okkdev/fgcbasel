@@ -1,18 +1,19 @@
----
-title: "Monthly Mash #11 3rd Strike"
-date: 2023-03-27T22:18:37.715Z
-event_date: 2023-03-29T20:00:37.718Z
-description: "Monthly Mash #11 3rd Strike. Street Fighter 3rd Strike Tournament
-  held on the 29.03.2023 at ManaBar Basel."
-thumbnail: /img/mm11-logo.png
----
++++
+title = "Monthly Mash #11 3rd Strike"
+date = 2023-03-27
+description = "Monthly Mash #11 3rd Strike. Street Fighter 3rd Strike Tournament held on the 29.03.2023 at ManaBar Basel."
+
+[extra]
+event_date = "2023-03-29T20:00:37Z"
+thumbnail = "/img/mm11-logo.png"
++++
 ## Winners
 
 1. 🥇 Bas
 1. 🥈 Calimero4055
 1. 🥉 [MOTIVATED!](https://twitter.com/ULTRAMOTIVATED)
 
-{{< figure src="/img/mm11-top8.png" title="Monthly Mash #11 Top 8" >}}
+{{ figure(src="/img/mm11-top8.png", title="Monthly Mash #11 Top 8") }}
 
 ---
 
