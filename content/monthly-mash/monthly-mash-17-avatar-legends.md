@@ -1,5 +1,5 @@
 +++
-title = "Monthly Mash #17 Avatar Legends"
+title = "Monthly Mash #18 Avatar Legends"
 date = "2026-07-26"
 description = "Monthly Mash #18 Avatar Legends. Avatar Legends Tournament held on the 30.07.2026 at ManaBar Basel."
 
